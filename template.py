@@ -20,12 +20,12 @@ list_of_files=[
     "src/exception/exception"
     "tests/unit/__init__.py",
     "tests/iniegration/__init__.py",
-    "init_Setup.sh",
+    "init_setup.sh",
     "requirements.txt",
     "requirements_dev.txt",
     "setup.py",
     "setup.cfg",
-    "pyproject.ini",
+    "pyproject.toml",
     "experiment/experiments.ipynb"
 ]
 
