@@ -7,6 +7,7 @@ flask
 mlflow==2.2.2
 dvc
 ipykernel
+xgboost
 
 # Development dependencies
 pytest==7.1.3
