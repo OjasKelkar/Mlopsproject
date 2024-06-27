@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Mlopsproject/mlruns/0/5bd2848aa0ba4069b66b82441ad7891b/artifacts
+end_time: 1719483105647
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5bd2848aa0ba4069b66b82441ad7891b
+run_name: bright-cod-176
+run_uuid: 5bd2848aa0ba4069b66b82441ad7891b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719483093789
+status: 3
+tags: []
+user_id: OJAS

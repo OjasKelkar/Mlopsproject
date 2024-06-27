@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Mlopsproject/mlruns/0/63ac753c2fee4ae4ae24efb47a5f7e1c/artifacts
+end_time: 1719483311817
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 63ac753c2fee4ae4ae24efb47a5f7e1c
+run_name: caring-ox-474
+run_uuid: 63ac753c2fee4ae4ae24efb47a5f7e1c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719483276469
+status: 3
+tags: []
+user_id: OJAS
