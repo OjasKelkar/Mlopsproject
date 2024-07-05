@@ -1,6 +1,6 @@
 from flask import Flask,request,render_template
 
-from src.pipeline.prediction_pipeline import  PredictPipeline, customData
+from src.DiamondPricePrediction.pipeline.prediction_pipeline import  PredictPipeline, customData
 
 app=Flask(__name__)
 
@@ -38,4 +38,4 @@ def predict_datapoint():
 
 
 if __name__=="__main__":
-    app.run(host="127.0.0.1",port=8000)
+    app.run(host="127.0.0.1",port=5000)
